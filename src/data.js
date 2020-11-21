@@ -1,4 +1,4 @@
-const slides = [
+  const slides = [
     {
       title: "Today's workout plan",
       text: "We're gonna do 3 fundamental exercises.",
